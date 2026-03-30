@@ -1,7 +1,7 @@
 {
-  "prompt": "A single massive cracked clay pot from rural South Asia, impossibly huge and dry inside with dust spilling out, positioned left dominating 70% of frame; right side shows a tiny cluster of overflowing golden fruits and vegetables in secure baskets; stark contrast in scale evokes overwhelming emptiness vs abundance, cinematic texture like National Geographic photo, no text, no graphs, no people, high detail, emotional tension --ar 16:9 --v 6",
-  "model": "DALL-E 3 via Bing",
-  "dataset_name": "Global Hunger Index 2024",
-  "dataset_url": "https://www.globalhungerindex.org/",
-  "insight": "South Asia alone has 278 million undernourished people, more than all other regions combined."
+  "prompt": "a pair of human lungs made of a city skyline,children going school wearning  mask ,   left side clean and bright, right side dark and filled with thick smog,  buildings dissolving into black smoke,  people barely visible through haze,  symbolizing air pollution becoming deadly,  cinematic lighting, hyper realistic, emotional,  national geographic style,  no text, no graphs, no labels,Melting ice,no Thermometer,no Globe + fire",
+  "model": "DALL·E 3",
+  "dataset_name": "Delhi Air Quality Index Data",
+  "dataset_url": "https://www.kaggle.com/datasets/kunshbhatia/delhi-air-quality-dataset",
+  "insight": "Air pollution in Delhi has turned breathable air into a health hazard"
 }
